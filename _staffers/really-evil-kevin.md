@@ -1,9 +1,9 @@
 ---
-name: Really Evil Kevin
+name: Really Evil vijay
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+website: 
+photo: totoro.jpg
 ---
 
 I like teaching Computer Science!

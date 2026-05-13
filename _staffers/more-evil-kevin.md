@@ -1,9 +1,9 @@
 ---
-name: More Evil Kevin
+name: More Evil Vijay
 role: Teaching Assistant
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+website: 
+photo: totoro.png
 ---
 
 I like teaching Computer Science!
