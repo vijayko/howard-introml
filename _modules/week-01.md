@@ -2,8 +2,8 @@
 title: Introduction to Java
 ---
 
-Sep 28
-: [Java & Git](#)
+Supervised Learning
+: [Softmax](https://vijayko.github.io/howard-introml/files/Softmax_Function.pdf)
   : [1.1](#)
 
 Sep 29

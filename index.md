@@ -15,7 +15,6 @@ seo:
 ## About the Class
 
 
-
 ## Course Materials
 {% for module in site.modules %}
 {{ module }}
