@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CSCI 475/675
+title: Just the Class
 nav_exclude: true
 permalink: /:path/
 seo:
