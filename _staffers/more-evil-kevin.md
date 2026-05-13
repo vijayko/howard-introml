@@ -1,5 +1,5 @@
 ---
-name: More Evil Vijay
+name: TBD
 role: Teaching Assistant
 email: me@example.com
 website: 
