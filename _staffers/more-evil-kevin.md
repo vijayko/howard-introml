@@ -3,7 +3,7 @@ name: TBD
 role: Teaching Assistant
 email: me@example.com
 website: 
-photo: totoro.png
+photo: Rotating_earth.gif
 ---
 
 I like teaching Computer Science!
