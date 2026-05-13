@@ -1,8 +1,8 @@
 ---
-title: Introduction to Java
+title: Supervised Learning
 ---
 
-Supervised Learning
+Ch 1
 : [Softmax](https://vijayko.github.io/howard-introml/files/Softmax_Function.pdf)
   : [1.1](#)
 
