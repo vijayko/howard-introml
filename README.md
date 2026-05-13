@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Just the Class
+title: CSCI 475/675
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Intro to ML
 ---
 
 # Just the Class
